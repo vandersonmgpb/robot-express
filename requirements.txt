@@ -1,0 +1,15 @@
+bcrypt==4.3.0
+pymongo==4.10.1
+requests==2.32.3
+robotframework==6.0.2
+robotframework-browser==19.4.0
+robotframework-jsonlibrary==0.5
+robotframework-requests==0.9.7
+robotframework-seleniumlibrary==6.7.1
+
+#pip freeze > requirements.txt (comando para lista as bibliotecas utilizadas no projeto e criar o arquivo na raiz do projeto)
+
+#pip install -r requirements.txt (comando para instalar as bibliotecas utilizadas no projeto, a partir do arquivo requirements salvo no gitbash)
+
+
+
